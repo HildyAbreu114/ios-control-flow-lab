@@ -1,15 +1,9 @@
 
 
-# Control Flow Lab
+# Control Flow Lab 
 
 ## Instructions for lab submission
 
-1. Fork the assignment repo
-1. Clone your Fork to your machine
-1. Complete the lab
-1. Push your changes to your Fork
-1. Submit a Pull Request back to the assignment repo
-1. Paste a link to of your Fork on Canvas and submit
 
 ## Question 1
 
@@ -35,6 +29,8 @@ print("D")
 - C
 - D
 
+
+ANSWER - D
 ***
 ## Question 2
 
@@ -57,6 +53,8 @@ switch appInfo {
 - Thanks for looking at myCoolApp!
 - I'm not quite sure what you are looking at
 - It will give a compile-time error
+
+ANSWER- myCoolApp hasn't released yet
 
 ***
 ## Question 3
@@ -82,6 +80,8 @@ default:
 - C
 - D
 
+ANSWER- D
+
 ***
 ## Question 4
 
@@ -105,6 +105,10 @@ case "snickers":
 - No default case in the switch statement
 - No print statement right outside the switch statement
 
+ANSWER- NO PARENTHESES AROUND THE CONDITIONS &
+NO OPENING AND CLOSING BRACKETS IN EACH OF THE CASES
+
+
 ***
 ## Question 5
 
@@ -115,7 +119,17 @@ let currentWeather = "rain"
 
 // enter code below
 ```
+ANSWER- 
+let currentWeather = rain
 
+If currentWeather == sunny {
+print ("it's hot let's go to the beach")
+} else if currentWeather == snow {
+print ("Do you want to build a snowman?")
+} else {
+print ("I'm singing in the rain")
+}
+I GOT ERRORS BUT IM NOT UNDERSTAING WHAT THEY MEAN, AND NOT SURE WHERE I WENT WRONG 
 ***
 ## Question 6
 
@@ -129,3 +143,4 @@ let lastName = "Appleseed"
 ```
 
 ***
+ANSWER- I HAVE NO CLUE HOW TO SOLVE THIS ONE ,  CAN YOU SHOW ME HOW?
